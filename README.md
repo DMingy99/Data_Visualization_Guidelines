@@ -5,23 +5,33 @@ This guide will cover the following topics:
 
 ## 1. Basic concepts of data visualization:
 
-##### >A brief overview of the development of data visualization
-##### >The logic and rationale behind data visualization.
+#### >A brief overview of the development of data visualization
+#### >The logic and rationale behind data visualization.
 
 ## 2. Commonly used visualization charts:
 
-##### >Different types of visualization charts, such as bar charts, line charts, scatter plots, pie charts, etc..
-##### >Advantages and applicable scenarios of each type of charts in order to choose the most appropriate chart to present the data.
+#### >Different types of visualization charts
+###### > >  Bar chart
+###### > >  Histogram
+###### > >  Box plots
+###### > >  Line charts
+###### > >  Scatter plots
+###### > >  Pie charts
 
 ## 3. Tutorials on introductory use of visualization software (WITHOUT CODING):
 
-##### >Learn how to use popular visualization tools such as Tableau, Power BI, Excel, and more.
-##### >Resources
+#### >Learn how to use popular visualization tools.
+###### > > Tableau
+###### > > Power BI
+###### > > Excel
+#### >Learning Resources
 
 ## 4. Plotting packages in popular data analytics programming languages:
 
-##### >Learn how to create custom visualizations using plotting libraries in data analytics programming languages such as ***Python and R*** (such as Matplotlib, Seaborn, ggplot2, etc).
-##### > Resources
+#### >Learn how to create custom visualizations using plotting libraries in data analytics programming languages.
+###### > > Python
+###### > > R
+#### > Learning Resources
 
 ## 5. Additional learning resources:
 
