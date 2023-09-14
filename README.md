@@ -5,35 +5,37 @@ This guide will cover the following topics:
 
 ## 1. Basic concepts of data visualization:
 
-#### >A brief overview of the development of data visualization
-#### >The logic and rationale behind data visualization.
+### >A brief overview of the development of data visualization
+### >The logic and rationale behind data visualization.
 
-## 2. Commonly used visualization charts:
+## 2. Commonly Used Visualization Charts:
+#### > >  Bar chart
+#### > >  Histogram
+#### > >  Box plots
+#### > >  Line charts
+#### > >  Scatter plots
+#### > >  Pie charts
 
-#### >Different types of visualization charts
-###### > >  Bar chart
-###### > >  Histogram
-###### > >  Box plots
-###### > >  Line charts
-###### > >  Scatter plots
-###### > >  Pie charts
+## 3. Tutorials of Visualization Software (WITHOUT CODING):
 
-## 3. Tutorials on introductory use of visualization software (WITHOUT CODING):
+### >Learn how to use popular visualization tools.
+#### > > Tableau
+#### > > Power BI
+#### > > Excel
+### >Learning Resources
 
-#### >Learn how to use popular visualization tools.
-###### > > Tableau
-###### > > Power BI
-###### > > Excel
-#### >Learning Resources
+## 4. Plotting Packages in Popular Data Analytics Programming Languages:
 
-## 4. Plotting packages in popular data analytics programming languages:
-
-#### >Learn how to create custom visualizations using plotting libraries in data analytics programming languages.
-###### > > Python
-###### > > R
-#### > Learning Resources
+### >Learn how to create custom visualizations using plotting libraries in data analytics programming languages.
+#### >> Python
+###### >> --- Matplotlib
+###### >> --- Seaborn
+##### >> R
+###### >> --- Base R
+###### >> --- ggplot2
+### > Learning Resources
 
 ## 5. Additional learning resources:
 
-##### >Recommended books, online courses, blogs, and social media resources to help you learn the field of data visualization in depth.
+### >Recommended books, online courses, blogs, and social media resources to help you learn the field of data visualization in depth.
 ## 6. Reference
