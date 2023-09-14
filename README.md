@@ -8,20 +8,23 @@ This guide will cover the following topics:
 ### >A brief overview of the development of data visualization
 ### >The logic and rationale behind data visualization.
 
-## 2. Commonly Used Visualization Charts:
+## 2. Commonly Used Visualization Charts and Portrayals:
+### > Basic Plots
 #### > >  Bar chart
 #### > >  Histogram
 #### > >  Box plots
 #### > >  Line charts
 #### > >  Scatter plots
 #### > >  Pie charts
+#### > >  Forrest Plots
+### > Other Portrayals
 
 ## 3. Tutorials of Visualization Software (WITHOUT CODING):
 
 ### >Learn how to use popular visualization tools.
 #### > > Tableau
-#### > > Power BI
 #### > > Excel
+#### > > Draw.io
 ### >Learning Resources
 
 ## 4. Plotting Packages in Popular Data Analytics Programming Languages:
