@@ -16,12 +16,14 @@ This guide will cover the following topics:
 ## 3. Tutorials on introductory use of visualization software (WITHOUT CODING):
 
 ##### >Learn how to use popular visualization tools such as Tableau, Power BI, Excel, and more.
-##### >Guide you to create and customize various visualization charts.
+##### >Resources
 
 ## 4. Plotting packages in popular data analytics programming languages:
 
 ##### >Learn how to create custom visualizations using plotting libraries in data analytics programming languages such as ***Python and R*** (such as Matplotlib, Seaborn, ggplot2, etc).
+##### > Resources
 
 ## 5. Additional learning resources:
 
 ##### >Recommended books, online courses, blogs, and social media resources to help you learn the field of data visualization in depth.
+## 6. Reference
