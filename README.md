@@ -10,6 +10,7 @@ This guide will cover the following topics:
 
 ## 2. Commonly Used Visualization Charts and Portrayals:
 ### > Basic Plots
+https://docs.google.com/presentation/d/1p3lhUTBulVJnXGuc7xIpHaBEej5t2pUC/edit?usp=sharing&ouid=108626417806720099473&rtpof=true&sd=true
 
 ### > Other Portrayals
 
