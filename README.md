@@ -9,7 +9,8 @@ This guide will cover the following topics:
 ### >The logic and rationale behind data visualization.
 
 ## 2. Commonly Used Visualization Charts and Portrayals:
-### > Basic Plots
+### > Basic Plots[Plots.pptx](https://github.com/DMingy99/Data_Visualization_Guidelines/files/12709533/Plots.pptx)
+
 ### > Other Portrayals
 
 ## 3. Tutorials of Visualization Software (WITHOUT CODING):
