@@ -27,11 +27,9 @@ https://drive.google.com/file/d/1_1PFBymUh0_vxIiSWTj5P7pbx51SQJoo/view?usp=drive
 
 ### >Learn how to create custom visualizations using plotting libraries in data analytics programming languages.
 #### >> Python
-###### >> --- Matplotlib
-###### >> --- Seaborn
+###### >> --- Matplotlib & Seaborn
 ##### >> R
-###### >> --- Base R
-###### >> --- ggplot2
+###### >> --- Base R & ggplot2
 ### > Learning Resources
 
 ## 5. Additional learning resources:
