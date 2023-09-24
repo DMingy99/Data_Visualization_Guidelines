@@ -6,6 +6,7 @@ This guide will cover the following topics:
 ## 1. Basic concepts of data visualization:
 
 ### >A brief overview of the development of data visualization
+https://docs.google.com/document/d/19_m7THolwIi0UuACUTERSRR2qE1sK-IDATgnOcMo6I0/edit?usp=sharing
 ### >The logic and rationale behind data visualization.
 
 ## 2. Commonly Used Visualization Charts and Portrayals:
