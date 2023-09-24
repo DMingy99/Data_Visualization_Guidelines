@@ -10,13 +10,6 @@ This guide will cover the following topics:
 
 ## 2. Commonly Used Visualization Charts and Portrayals:
 ### > Basic Plots
- Bar chart  
- Histogram  
- Box plots
- Line charts  
- Scatter plots  
- Pie charts  
- Forrest Plots
 ### > Other Portrayals
 
 ## 3. Tutorials of Visualization Software (WITHOUT CODING):
