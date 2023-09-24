@@ -12,6 +12,7 @@ https://docs.google.com/document/d/1l-9Sg41DUe-3CJP7EInuXLvlcSk1J5EksDvOHxsXo2E/
 
 ## 2. Commonly Used Visualization Charts and Portrayals:
 ### > Basic Plots
+https://drive.google.com/file/d/1_1PFBymUh0_vxIiSWTj5P7pbx51SQJoo/view?usp=drive_link
 https://docs.google.com/presentation/d/1p3lhUTBulVJnXGuc7xIpHaBEej5t2pUC/edit?usp=sharing&ouid=108626417806720099473&rtpof=true&sd=true
 
 ### > Other Portrayals
