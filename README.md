@@ -7,7 +7,8 @@ This guide will cover the following topics:
 
 ### >A brief overview of the development of data visualization
 https://docs.google.com/document/d/19_m7THolwIi0UuACUTERSRR2qE1sK-IDATgnOcMo6I0/edit?usp=sharing
-### >The logic and rationale behind data visualization.
+### >The logic and rationale behind data visualization
+https://docs.google.com/document/d/1l-9Sg41DUe-3CJP7EInuXLvlcSk1J5EksDvOHxsXo2E/edit?usp=sharing
 
 ## 2. Commonly Used Visualization Charts and Portrayals:
 ### > Basic Plots
