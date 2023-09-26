@@ -23,6 +23,7 @@ https://drive.google.com/file/d/1Z2doWuPrR_DfQX3aCawzQoF3bfeArdho/view?usp=shari
 #### > > Excel
 https://drive.google.com/file/d/1SjgkHpsPywOYBw9g_2-zjmenxoguNhp5/view?usp=sharing
 #### > > Draw.io
+https://drive.google.com/file/d/1OQW4KxcZpNlXuOrIfokXGrDI22167_q2/view?usp=sharing
 ### >Learning Resources
 
 ## 4. Plotting Packages in Popular Data Analytics Programming Languages:
