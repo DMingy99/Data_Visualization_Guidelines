@@ -19,6 +19,7 @@ https://drive.google.com/file/d/1_1PFBymUh0_vxIiSWTj5P7pbx51SQJoo/view?usp=drive
 
 ### >Learn how to use popular visualization tools.
 #### > > Tableau
+https://drive.google.com/file/d/1Z2doWuPrR_DfQX3aCawzQoF3bfeArdho/view?usp=sharing
 #### > > Excel
 #### > > Draw.io
 ### >Learning Resources
