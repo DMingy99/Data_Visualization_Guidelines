@@ -43,7 +43,8 @@ https://drive.google.com/file/d/1APS1wBNN-kcVmFRqekv2L4PZY0CHCRiT/view?usp=shari
 
 ### > Learning Resources
 #### R
->> https://ggplot2.tidyverse.org/        
+>> https://ggplot2.tidyverse.org/
+>> https://youtu.be/HPJn1CMvtmI?si=Ma7ZxDQuPBGNU9ik                   
 #### Python
 >> https://www.geeksforgeeks.org/data-visualization-with-python/     
 >> https://youtu.be/a9UrKTVEeZA?si=QW_sZv-rocU9RNYp      
