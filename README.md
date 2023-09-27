@@ -46,8 +46,4 @@ https://drive.google.com/file/d/1APS1wBNN-kcVmFRqekv2L4PZY0CHCRiT/view?usp=shari
 >> https://youtu.be/a9UrKTVEeZA?si=QW_sZv-rocU9RNYp      
 >> https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python      
 
-## 5. Additional learning resources:
-
-
-### >Recommended books, online courses, blogs, and social media resources to help you learn the field of data visualization in depth.
-## 6. Reference
+## 5. Reference
