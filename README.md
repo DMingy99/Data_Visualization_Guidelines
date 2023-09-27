@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1OQW4KxcZpNlXuOrIfokXGrDI22167_q2/view?usp=shari
 ### >Learn how to create custom visualizations using plotting libraries in data analytics programming languages.
 Visualization in a programming language presupposes a basic understanding of that programming language. If you are completely new to the programming language, it is recommended that you use the above three ways of visualization that do not require coding.
 ##### >> R
-###### >>  ggplot2
+###### >> --- ggplot2
 https://drive.google.com/file/d/1OtYcrMaWAmJsqm92ADZQBY_KqISkpnvH/view?usp=sharing
 #### >> Python
 ###### >> --- Matplotlib
@@ -43,8 +43,8 @@ https://drive.google.com/file/d/1APS1wBNN-kcVmFRqekv2L4PZY0CHCRiT/view?usp=shari
 
 ### > Learning Resources
 #### R
->> https://ggplot2.tidyverse.org/
->> https://youtu.be/HPJn1CMvtmI?si=Ma7ZxDQuPBGNU9ik                   
+>> https://ggplot2.tidyverse.org/               
+>> https://youtu.be/HPJn1CMvtmI?si=Ma7ZxDQuPBGNU9ik                            
 #### Python
 >> https://www.geeksforgeeks.org/data-visualization-with-python/     
 >> https://youtu.be/a9UrKTVEeZA?si=QW_sZv-rocU9RNYp      
