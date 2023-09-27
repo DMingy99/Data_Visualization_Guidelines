@@ -37,10 +37,12 @@ Visualization in a programming language presupposes a basic understanding of tha
 #### >> Python
 ###### >> --- Matplotlib
 https://drive.google.com/file/d/1APS1wBNN-kcVmFRqekv2L4PZY0CHCRiT/view?usp=sharing
-https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python
+
 
 ### > Learning Resources
 https://www.geeksforgeeks.org/data-visualization-with-python/
+https://youtu.be/a9UrKTVEeZA?si=QW_sZv-rocU9RNYp
+https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python
 
 ## 5. Additional learning resources:
 
