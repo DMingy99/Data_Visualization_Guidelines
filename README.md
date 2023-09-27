@@ -27,7 +27,11 @@ https://drive.google.com/file/d/1OQW4KxcZpNlXuOrIfokXGrDI22167_q2/view?usp=shari
 ### >Learning Resources
 #### Tableau
 >> https://www.youtube.com/watch?v=aHaOIvR00So     
->> https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm    
+>> https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm
+#### Excel
+>> https://youtu.be/MTlQvyNQ3PM?si=HYC2OlDMUpd6sx1N
+#### Draw.io
+>> https://www.youtube.com/@drawioapp/featured
 
 ## 4. Plotting Packages in Popular Data Analytics Programming Languages:
 
