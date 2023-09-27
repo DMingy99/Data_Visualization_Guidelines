@@ -25,6 +25,8 @@ https://drive.google.com/file/d/1SjgkHpsPywOYBw9g_2-zjmenxoguNhp5/view?usp=shari
 #### > > Draw.io
 https://drive.google.com/file/d/1OQW4KxcZpNlXuOrIfokXGrDI22167_q2/view?usp=sharing
 ### >Learning Resources
+#### Tableau
+https://www.youtube.com/watch?v=aHaOIvR00So
 
 ## 4. Plotting Packages in Popular Data Analytics Programming Languages:
 
@@ -35,6 +37,7 @@ Visualization in a programming language presupposes a basic understanding of tha
 #### >> Python
 ###### >> --- Matplotlib
 https://drive.google.com/file/d/1APS1wBNN-kcVmFRqekv2L4PZY0CHCRiT/view?usp=sharing
+https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python
 
 ### > Learning Resources
 https://www.geeksforgeeks.org/data-visualization-with-python/
