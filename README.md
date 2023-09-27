@@ -26,8 +26,8 @@ https://drive.google.com/file/d/1SjgkHpsPywOYBw9g_2-zjmenxoguNhp5/view?usp=shari
 https://drive.google.com/file/d/1OQW4KxcZpNlXuOrIfokXGrDI22167_q2/view?usp=sharing
 ### >Learning Resources
 #### Tableau
->> https://www.youtube.com/watch?v=aHaOIvR00So
->> https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm
+>> https://www.youtube.com/watch?v=aHaOIvR00So  
+>> https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm  
 
 ## 4. Plotting Packages in Popular Data Analytics Programming Languages:
 
@@ -42,9 +42,9 @@ https://drive.google.com/file/d/1APS1wBNN-kcVmFRqekv2L4PZY0CHCRiT/view?usp=shari
 
 ### > Learning Resources
 #### Python
->> https://www.geeksforgeeks.org/data-visualization-with-python/
->> https://youtu.be/a9UrKTVEeZA?si=QW_sZv-rocU9RNYp
->> https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python
+>> https://www.geeksforgeeks.org/data-visualization-with-python/  
+>> https://youtu.be/a9UrKTVEeZA?si=QW_sZv-rocU9RNYp  
+>> https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python  
 
 ## 5. Additional learning resources:
 
