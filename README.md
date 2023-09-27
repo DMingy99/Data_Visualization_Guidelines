@@ -37,8 +37,10 @@ Visualization in a programming language presupposes a basic understanding of tha
 https://drive.google.com/file/d/1APS1wBNN-kcVmFRqekv2L4PZY0CHCRiT/view?usp=sharing
 
 ### > Learning Resources
+https://www.geeksforgeeks.org/data-visualization-with-python/
 
 ## 5. Additional learning resources:
+
 
 ### >Recommended books, online courses, blogs, and social media resources to help you learn the field of data visualization in depth.
 ## 6. Reference
