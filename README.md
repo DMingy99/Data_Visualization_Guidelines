@@ -29,10 +29,12 @@ https://drive.google.com/file/d/1OQW4KxcZpNlXuOrIfokXGrDI22167_q2/view?usp=shari
 ## 4. Plotting Packages in Popular Data Analytics Programming Languages:
 
 ### >Learn how to create custom visualizations using plotting libraries in data analytics programming languages.
-#### >> Python
-###### >> --- Matplotlib
+Visualization in a programming language presupposes a basic understanding of that programming language. If you are completely new to the programming language, it is recommended that you use the above three ways of visualization that do not require coding.
 ##### >> R
 ###### >> --- Base R & ggplot2
+#### >> Python
+###### >> --- Matplotlib
+
 ### > Learning Resources
 
 ## 5. Additional learning resources:
