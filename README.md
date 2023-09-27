@@ -14,7 +14,7 @@ https://docs.google.com/document/d/1l-9Sg41DUe-3CJP7EInuXLvlcSk1J5EksDvOHxsXo2E/
 ### > Basic Plots
 https://drive.google.com/file/d/1_1PFBymUh0_vxIiSWTj5P7pbx51SQJoo/view?usp=drive_link
 ### > Other Portrayals
-
+https://drive.google.com/file/d/1x8pwoDDIT5TYRkGeQPCSCJYOqcf8fPmF/view?usp=sharing
 ## 3. Tutorials of Visualization Software (WITHOUT CODING):
 
 ### >Learn how to use popular visualization tools.
