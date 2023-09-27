@@ -51,3 +51,4 @@ https://drive.google.com/file/d/1APS1wBNN-kcVmFRqekv2L4PZY0CHCRiT/view?usp=shari
 >> https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python   
 
 ## 5. Reference
+https://docs.google.com/document/d/1Syvi_wSJWmx2UL-O1ayJbzM7zlK-MUA1/edit?usp=sharing&ouid=108626417806720099473&rtpof=true&sd=true
