@@ -42,9 +42,11 @@ https://drive.google.com/file/d/1APS1wBNN-kcVmFRqekv2L4PZY0CHCRiT/view?usp=shari
 
 
 ### > Learning Resources
+#### R
+>> https://ggplot2.tidyverse.org/        
 #### Python
 >> https://www.geeksforgeeks.org/data-visualization-with-python/     
 >> https://youtu.be/a9UrKTVEeZA?si=QW_sZv-rocU9RNYp      
->> https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python      
+>> https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python   
 
 ## 5. Reference
