@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1x8pwoDDIT5TYRkGeQPCSCJYOqcf8fPmF/view?usp=shari
 #### > > Tableau
 https://drive.google.com/file/d/1Z2doWuPrR_DfQX3aCawzQoF3bfeArdho/view?usp=sharing
 #### > > Excel
-https://drive.google.com/file/d/1SjgkHpsPywOYBw9g_2-zjmenxoguNhp5/view?usp=sharing
+https://drive.google.com/file/d/1wSrFiBG3oakvrqlA5jP3BmFMjN5Oomf2/view?usp=sharing
 #### > > Draw.io
 https://drive.google.com/file/d/1OQW4KxcZpNlXuOrIfokXGrDI22167_q2/view?usp=sharing
 ### >Learning Resources
